@@ -2,24 +2,19 @@
 
 distributed systems
 
-currently building **chronon (chr2)** — a consensus engine that enforces crash-safe side effects.
-
 ---
 
 ### Work
 - **[chr2](https://github.com/abokhalill/chr2)**  
   Solving the dual-write problem from first principles.  
-  Side effects are part of the protocol, not an afterthought.
 
-- **Nullpoint** *(upcoming)*  
-  An invariant-centric kernel.  
-  State as durable facts, not mutable variables.
+- **[Cuttlefish](https://github.com/abokhalill/cuttlefish)**   
+  An invariant-centric kernel.
 
 ---
 
 ### Principles
 - Crash safety is non-negotiable.
-- “Exactly once” is a claim, not a property.
 
 ---
 
