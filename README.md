@@ -1,20 +1,6 @@
 # Yousef Mahmoud
 
-distributed systems
-
----
-
-### Work
-- **[chr2](https://github.com/abokhalill/chr2)**  
-  Solving the dual-write problem from first principles.  
-
-- **[Cuttlefish](https://github.com/abokhalill/cuttlefish)**   
-  An invariant-centric kernel.
-
----
-
-### Principles
-- Crash safety is non-negotiable.
+distributed systems and anything performance related
 
 ---
 
